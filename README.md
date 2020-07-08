@@ -9,6 +9,6 @@ the HTC Focus Plus.
 ## CAVE versions
 Also included you find quite old solutions
 implemented in CAVELib resp. VRJuggler for a CAVE.
-Here wie use OpenGL resp. OpenPerformer and C++. 
+Here we use C++, OpenGL resp. OpenPerformer. 
 
 ![Lizenzlogo](https://licensebuttons.net/l/by-nc-sa/3.0/de/88x31.png)
