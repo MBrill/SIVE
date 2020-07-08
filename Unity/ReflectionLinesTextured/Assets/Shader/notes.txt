@@ -1,0 +1,2 @@
+Not used in the project anymore.
+CG_RoateTexture.shader is just an example for how to rotate uv coords of an object through a shader.
