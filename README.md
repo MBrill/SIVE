@@ -2,7 +2,7 @@
 
 ![SIVE](https://github.com/MBrill/SIVE/blob/master/images/SIVE.png)
 
-How can we visualize und interrogate the quality of surfaces? This repo
+How can we visualize und interrogate the quality of free form surfaces? This repo
 contains solutions in Unity for Head-Mounted Displays like the HTC Vive or
 the HTC Focus Plus. 
 
