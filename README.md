@@ -1,6 +1,6 @@
 # SIVE - Surface interrogation in a virtual environment
 
-![SIVE](https://github.com/MBrill/SIVE/images/sive.png)
+![SIVE](https://github.com/MBrill/SIVE/blob/master/images/SIVE.png)
 
 How can we visualize und interrogate the quality of surfaces? This repo
 contains solutions in Unity for Head-Mounted Displays like the HTC Vive or
